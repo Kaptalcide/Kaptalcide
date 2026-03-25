@@ -7,7 +7,7 @@ Lvl 1 Helpdesk Engineer and Fullstack Developer
 I am an Information Technology graduate with strong foundation in full-stack development and network configuration. Experienced with team collaboration to develop automated web system using Python, Django, AWS, and Docker. Proficient in VPN configuration and system administration, with strong interest in applying technical expertise to real-world projects.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Denceytapang](http://dencey.vercel.app)
+* 🖥️  See my portfolio at [Denceytapang](http://denceytapang.vercel.app)
 * ✉️  You can contact me at [denceyrhyll@gmail.com](mailto:denceyrhyll@gmail.com)
 * 🚀  I'm currently working on [Cyzerg Philippines](http://cyzerg.com)
 * 👥  I'm looking to collaborate on Interesting Projects
